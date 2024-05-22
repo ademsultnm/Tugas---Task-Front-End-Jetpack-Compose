@@ -1,4 +1,4 @@
-# Tugas---Task-Front-End-Jetpack-Compose
+# Tugas Front-End Jetpack Compose
 pembuatan tampilan dengan aturan jetpack compose
 
 Oleh : 
